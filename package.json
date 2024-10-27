@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://Dev-1-lab.github.io/iqbol",
+  "homepage": "https://dev-1-lab.github.io/iqbol",
   "eslintConfig": {
     "extends": [
       "react-app",
