@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new/static/css/main.3b01cd2b.css",
+    "main.js": "/new/static/js/main.183d6fd9.js",
+    "static/media/cyber.jpg": "/new/static/media/cyber.0edd7eb9df6ded78dfc7.jpg",
+    "static/media/640px-Davlat_xavfsizlik_xizmati_emblemasi.jpg": "/new/static/media/640px-Davlat_xavfsizlik_xizmati_emblemasi.e6bdfdb31d955ba3a782.jpg",
+    "index.html": "/new/index.html",
+    "main.3b01cd2b.css.map": "/new/static/css/main.3b01cd2b.css.map",
+    "main.183d6fd9.js.map": "/new/static/js/main.183d6fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b01cd2b.css",
+    "static/js/main.183d6fd9.js"
+  ]
+}
