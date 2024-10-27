@@ -11,7 +11,7 @@ function Login() {
     // Check if the username and password match your criteria (e.g., "admin" for both)
     if (username === "admin" && password === "admin") {
       // Redirect to the home page when credentials match
-      navigate("/");
+      navigate("/iqbol");
     } else {
       // Handle invalid login
       alert("login yoki parol xato!");
