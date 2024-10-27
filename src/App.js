@@ -29,7 +29,7 @@ function App() {
     <Router>
       <Routes>
         <Route
-          path="/"
+          path="/iqbol"
           element={
             <Layout>
               <GridMenu />
