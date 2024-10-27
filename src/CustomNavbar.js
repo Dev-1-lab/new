@@ -45,7 +45,7 @@ function CustomNavbar() {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav mr-auto mx-auto">
           <li className="nav-item mx-2">
-            <Link className="nav-link" to="/" style={{ fontSize: "15px" }}>
+            <Link className="nav-link" to="/iqbol" style={{ fontSize: "15px" }}>
               Home
             </Link>
           </li>
