@@ -19,14 +19,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-//    "start": "react-scripts start",
-//    "build": "react-scripts build",
-    "start": "node server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-
   },
+  "homepage": "https://Dev-1-lab.github.io/iqbol",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
