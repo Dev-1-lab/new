@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Your page content here */}
       </main>
       <footer className="bg-light text-center py-3" style={footerStyle}>
-        <p>&copy; 2024 Cyberspace by Iqboljon | All rights are reserved</p>
+        <p>&copy; 2024 Cyberspace by newjon | All rights are reserved</p>
       </footer>
     </div>
   );
