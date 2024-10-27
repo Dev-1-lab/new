@@ -1,0 +1,37 @@
+/* Add this CSS to a separate stylesheet or use inline styles as needed */
+
+/* Style for the selected option */
+.selected-option {
+  background-color: #4caf50; /* Green background color for the selected option */
+  color: white; /* White text color for the selected option */
+}
+
+/* Style for the unselected option on hover */
+.list-group-item:hover {
+  background-color: #f5f5f5; /* Light gray background color on hover */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+/* Style for the option icon */
+.option-icon {
+  margin-right: 10px; /* Add some spacing between the icon and option text */
+}
+
+/* Style for the progress bar */
+.progress-bar {
+  background-color: #4caf50; /* Green progress bar color */
+  color: white; /* White text color for the progress bar */
+}
+
+/* Center the progress text */
+.progress-bar span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Style for the quiz completion message */
+.text-center h2 {
+  color: #4caf50; /* Green color for quiz completion message */
+}
